@@ -1,4 +1,3 @@
-<<<<<<< HEAD
  wedoiwueoifuweof hi suresh is a good boy
  2
  3
@@ -13,14 +12,10 @@ hgfdhj5
  10
  11
  12
- 
-=======
 hi
-
 hello
 hii...everyon
 
 e
 wedoiwueoifuweof hi suresh is a good boy
->>>>>>> 7c675b0c5bd7f1a3c2f9d91b7cdba505da942684
 edited by mahesh..............
